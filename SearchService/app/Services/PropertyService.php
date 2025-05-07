@@ -19,7 +19,7 @@ class PropertyService
     }
     public function search()
     {
-        // Apply filters like price range, location, property type
+        
         if (!empty($this->filters)) {
             foreach ($this->filters as $field => $value) {
                 if ($value === null || $value === '') {
@@ -44,7 +44,7 @@ class PropertyService
                         $this->query->where('date_added', '<=', $value);
                         break;
                     default:
-                        // ignore unknown filters
+                        
                         break;
                 }
             }
