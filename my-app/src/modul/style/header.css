@@ -1,0 +1,99 @@
+* {
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 50px;
+    background-color: #ffffff;
+    position: fixed;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.299);
+    gap: 25vw;
+
+}
+
+.logo {
+    height: 50px;
+    width: 150px;
+    background: url('../img/logo.svg') center / contain no-repeat;
+
+
+}
+
+.navAuth {
+    display: flex;
+    gap: 30px;
+}
+
+
+
+.nav {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.auth-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.login-button,
+.but {
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.login-button {
+    background-color: #ffffff;
+    border: 2px solid #E7E8E3;
+    border-radius: 6px;
+    height: 40px;
+    filter: drop-shadow(0px 2px 4px #E7E8E3);
+
+}
+
+.but {
+    border-radius: 6px;
+    background-color: #CF6F49;
+    color: white;
+}
+
+.lupa {
+    background: url('../img//search.svg') center / contain no-repeat;
+    width: 20px;
+    height: 20px;
+}
+
+.searchHead {
+
+    width: 50px;
+    border: 0px;
+}
+
+.searchHead::placeholder {
+    font-size: 14px;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 517.73 115.06">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-width: 6px;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #1d1d1b;
+      }
+
+      .cls-6 {
+        font-family: FranklinGothic-Medium, 'Franklin Gothic Medium';
+        font-size: 59.25px;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-2" x="3" y="108.73" width="148.89" height="3.33" rx="1.67" ry="1.67"/>
+    <line class="cls-4" x1="24.48" y1="108.73" x2="24.93" y2="50.06"/>
+    <line class="cls-4" x1="129.38" y1="108.73" x2="129.83" y2="50.06"/>
+    <rect class="cls-2" x="4.14" y="29.77" width="84.21" height="3.33" rx="1.67" ry="1.67" transform="translate(-9.23 38.49) rotate(-41.45)"/>
+    <rect class="cls-1" x="30.4" y="15.51" width="3.33" height="28.22" transform="translate(64.13 59.23) rotate(180)"/>
+    <rect class="cls-1" x="59.57" y="69.06" width="3.33" height="36.17" transform="translate(122.47 174.29) rotate(180)"/>
+    <rect class="cls-1" x="88.73" y="69.06" width="3.33" height="36.17" transform="translate(180.8 174.29) rotate(180)"/>
+    <path class="cls-1" d="m77.48,48.48h0v32.5h0c-1.84,0-3.33-1.49-3.33-3.33v-25.83c0-1.84,1.49-3.33,3.33-3.33Z" transform="translate(140.55 -11.09) rotate(90)"/>
+    <rect class="cls-1" x="46.25" y="15.51" width="3.33" height="15.61" transform="translate(95.83 46.62) rotate(180)"/>
+    <path class="cls-1" d="m41.93,1h0v19h0c-2.24,0-4.06-1.82-4.06-4.06V5.06c0-2.24,1.82-4.06,4.06-4.06Z" transform="translate(50.4 -29.4) rotate(90)"/>
+    <rect class="cls-2" x="65.45" y="29.77" width="84.21" height="3.33" rx="1.67" ry="1.67" transform="translate(167.36 126.19) rotate(-138.55)"/>
+    <circle class="cls-3" cx="41.94" cy="76.28" r="5.22"/>
+    <circle class="cls-3" cx="112.03" cy="76.28" r="5.22"/>
+  </g>
+  <text class="cls-6" transform="translate(184.84 89.31)"><tspan x="0" y="0">Dreamsd</tspan><tspan class="cls-5" x="231.9" y="0">w</tspan><tspan x="272.83" y="0">ell</tspan></text>
+</svg>
