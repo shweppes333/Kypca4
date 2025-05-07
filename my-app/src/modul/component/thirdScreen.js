@@ -50,4 +50,4 @@ const ThirdScreen = () => {
     );
 };
 
-export default ThirdScreen; // Изменено на заглавную букву
+export default ThirdScreen; 
